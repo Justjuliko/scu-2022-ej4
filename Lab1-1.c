@@ -18,7 +18,6 @@ int main(void)
     funcPrint("Hola Mundo Cruel!!!");
     return(0);
 }
-
 /**
  * \brief funcPrint
  * 
